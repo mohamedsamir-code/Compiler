@@ -1,0 +1,13 @@
+﻿'Project2.exe' (Win32): Loaded 'E:\Project2\Debug\Project2.exe'. Symbols loaded.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Project2.exe' (Win32): Loaded 'C:\Program Files\AVG\Antivirus\x86\aswhook.dll'. 
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x4970 has exited with code 0 (0x0).
+The thread 0x25a8 has exited with code -1073741510 (0xc000013a).
+The thread 0x3f00 has exited with code -1073741749 (0xc000004b).
+The thread 0x34f8 has exited with code -1073741510 (0xc000013a).
+The program '[18984] Project2.exe' has exited with code -1073741510 (0xc000013a).

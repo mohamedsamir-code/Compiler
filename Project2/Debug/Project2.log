@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Project2\Project2\Source.cpp(291,21): warning C4018: '<': signed/unsigned mismatch
+E:\Project2\Project2\Source.cpp(299,21): warning C4018: '<': signed/unsigned mismatch
+E:\Project2\Project2\Source.cpp(334,21): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> E:\Project2\Debug\Project2.exe
